@@ -280,8 +280,9 @@ height: 90%;
     cursor: pointer;
     border-radius: 20%;
     outline: none;
-    transition: 0.3s;
     z-index: 200;
+    transition: 0.3s;
+  
 }
 
 #soundControl:hover {
